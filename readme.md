@@ -51,14 +51,14 @@ No terminal (PowerShell ou VS Code):
 
 Os arquivos ficam diretamente nas pastas do projeto:
 
-project/
- ├── import/
- │    ├── teste.doc
- │    └── outro_arquivo.doc
- ├── output/
- │    ├── teste.docx
- │    └── outro_arquivo.docx
- └── doc_to_docx.py
+    project/
+    ├── import/
+    │    ├── teste.doc
+    │    └── outro_arquivo.doc
+    ├── output/
+    │    ├── teste.docx
+    │    └── outro_arquivo.docx
+    └── main.py
 
 
 import/ → coloque aqui os arquivos .doc
