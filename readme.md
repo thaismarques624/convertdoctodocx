@@ -50,7 +50,7 @@ No terminal (PowerShell ou VS Code):
 ## 📁 Estrutura do projeto
 
 Os arquivos ficam diretamente nas pastas do projeto:
-    ```
+    ```bash
     project/
     ├── import/
     │    ├── teste.doc
