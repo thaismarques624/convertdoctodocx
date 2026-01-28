@@ -3,7 +3,7 @@
 Este projeto automatiza a conversão de arquivos .doc (Word binário legado) para .docx, utilizando o Microsoft Word via automação COM.
 O resultado é idêntico ao “Salvar como” do Word, preservando hyperlinks embutidos, formatação e estrutura do documento.
 
-⚠️ Esta é a única abordagem 100% fiel para documentos .doc corporativos e antigos.
+⚠️ Abordagem 100% fiel para documentos .doc corporativos e antigos.
 
 ## ✅ O que este script faz
 
