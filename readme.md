@@ -50,16 +50,16 @@ No terminal (PowerShell ou VS Code):
 ## 📁 Estrutura do projeto
 
 Os arquivos ficam diretamente nas pastas do projeto:
-    ```bash
+ 
     project/
-    ├── import/
-    │    ├── teste.doc
-    │    └── outro_arquivo.doc
-    ├── output/
-    │    ├── teste.docx
-    │    └── outro_arquivo.docx
-    └── main.py
-     ```
+        ├── import/
+        │    ├── teste.doc
+        │    └── outro_arquivo.doc
+        ├── output/
+        │    ├── teste.docx
+        │    └── outro_arquivo.docx
+        └── main.py
+
 
 import/ → coloque aqui os arquivos .doc
 
